@@ -42,9 +42,9 @@ public class OpenApiConfig {
                         .description("Server URL in Production environment");
 
                 Contact contact = new Contact()
-                        .name("Trong Ha Duc")
-                        .email("haductrong01629@gmail.com")
-                        .url("https://github.com/treocaynho01629");
+                        .name("Nguyen Duc Dat")
+                        .email("ducdat.1403@gmail.com")
+                        .url("https://github.com/datkaito");
 
                 Info info = new Info()
                         .title("OpenAPI specification - RING-Bookstore")
