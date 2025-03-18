@@ -153,7 +153,11 @@ export const getPaymentContent = (method) => {
           <Title>THANH TOÁN ONLINE</Title>
           <ScanContainer>
             <Message>Quét mã để thanh toán</Message>
-            <QrCode2 style={{ fontSize: 300 }} />
+            <img
+              src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/485140117_2744473149073414_8171773848424116192_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGhvGdG62vABkj9KNaWN0boYrzr5HbXjGNivOvkdteMY9kSDiF7_dCT3M5HrCrKioTg5256kj31InsxNkRV7aFb&_nc_ohc=0KdUNk715VMQ7kNvgHXS6mH&_nc_oc=AdhH_59lCWXthBHEzsLQRaWz_0cFWixyFIAuPra8eNfgnpDkeNTObYcDonX94C5-_5Dnoqq5fuyldA4ErO1MX9KN&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=bmF6IK16z-aO6876nwzqJA&oh=00_AYEPoJzcIjwRTVyb22iwbL0xVm0Q5XbwObtkOFiv5MPD9w&oe=67DF23BB"
+              alt="QR Code"
+              style={{ width: "300px", height: "300px" }}
+            />
           </ScanContainer>
         </>
       );
