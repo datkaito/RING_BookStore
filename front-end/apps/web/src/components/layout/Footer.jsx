@@ -378,7 +378,7 @@ const Footer = () => {
         <BotText>
           Giấy chứng nhận Đăng ý kính doanh do TP Hà Nội cấp ngày 01/04/2024.
         </BotText>
-        <Name>DoraZ</Name>
+        <Name>Đức Đạt</Name>
       </BotFooter>
     </Container>
   );
