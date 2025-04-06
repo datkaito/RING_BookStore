@@ -588,11 +588,11 @@ const Navbar = () => {
             <ContactContainer>
               <Contact>
                 <Phone sx={{ fontSize: 18, marginRight: 1 }} />
-                +8419130248
+                +84 976 086 660
               </Contact>
               <Contact>
                 <Mail sx={{ fontSize: 18, marginRight: 1 }} />
-                haductrong01629@gmail.com
+                ducdat.1403@gmail.com
               </Contact>
             </ContactContainer>
           </Grid>

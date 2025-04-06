@@ -313,7 +313,7 @@ const Footer = () => {
             <AddressContainer>
               <Logo src="/full-logo.svg" alt="RING! logo" />
               <Description>
-                Khu phố 6, Phường Linh Trung, TP. Thủ Đức - TP. Hồ Chí Minh
+                Số nhà 14, Ngõ 242 Đường Láng, Đống Đa, Hà Nội, Việt Nam
               </Description>
               <Social>
                 <SocialIcon color="3B5999">
@@ -380,9 +380,9 @@ const Footer = () => {
       </Container>
       <BotFooter>
         <BotText>
-          Giấy chứng nhận Đăng ý kính doanh do TP.HCM cấp ngày 01/01/2022.
+          Giấy chứng nhận Đăng ý kính doanh do TP Hà Nội cấp ngày 01/04/2022.
         </BotText>
-        <Name>DoraZ</Name>
+        <Name>Kaito</Name>
       </BotFooter>
     </Wrapper>
   );
