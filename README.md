@@ -1,5 +1,4 @@
 <p align="center">
-<img width="60" alt="RING Logo" src="https://raw.githubusercontent.com/treocaynho01629/CDWeb_RING-2.0/main/front-end/apps/web/public/logo.svg"/>
 </p>
 <div align="center">
   <h1 align="center">RING</h1>
@@ -7,7 +6,7 @@
 
 <div align="center">
   
-[![treocaynho01629 - CDWeb_RING-2.0](https://img.shields.io/static/v1?label=treocaynho01629&message=CDWeb_RING-2.0&color=blue&logo=github)](https://github.com/treocaynho01629/CDWeb_RING-2.0 "Go to GitHub repo")
+[![datkaito - CDWeb_RING-2.0]
 [![License](https://img.shields.io/badge/License-GNU_GPLv3-blue)](#license)
 
 </div>
@@ -192,4 +191,4 @@ docker-compose --env-file .env up --build
 
 ## License
 
-Released under [GNU GPLv3](/LICENSE) by [@treocaynho01629](https://github.com/treocaynho01629).
+Released under [GNU GPLv3](/LICENSE) by [@datkaito](https://github.com/datkaito).
